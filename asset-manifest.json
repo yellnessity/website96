@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/website96/static/css/main.f85d7418.chunk.css",
+    "main.js": "/website96/static/js/main.3925bb3d.chunk.js",
+    "main.js.map": "/website96/static/js/main.3925bb3d.chunk.js.map",
+    "runtime~main.js": "/website96/static/js/runtime~main.8f31e271.js",
+    "runtime~main.js.map": "/website96/static/js/runtime~main.8f31e271.js.map",
+    "static/css/2.3f010c89.chunk.css": "/website96/static/css/2.3f010c89.chunk.css",
+    "static/js/2.5aaf6d76.chunk.js": "/website96/static/js/2.5aaf6d76.chunk.js",
+    "static/js/2.5aaf6d76.chunk.js.map": "/website96/static/js/2.5aaf6d76.chunk.js.map",
+    "index.html": "/website96/index.html",
+    "precache-manifest.d6c106f371224b63dfa13f2d026e54ea.js": "/website96/precache-manifest.d6c106f371224b63dfa13f2d026e54ea.js",
+    "service-worker.js": "/website96/service-worker.js",
+    "static/css/2.3f010c89.chunk.css.map": "/website96/static/css/2.3f010c89.chunk.css.map",
+    "static/css/main.f85d7418.chunk.css.map": "/website96/static/css/main.f85d7418.chunk.css.map",
+    "static/media/all.css": "/website96/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/App.css": "/website96/static/media/pepsi.ffe1cddb.png"
+  }
+}
